@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is Saulo. I am a geomatic engineer from Mexico.
+- 🌱 I’m currently learning on Web development,
+- 🔭 I’m currently working on GIS, and programming with python.
 <!--
 **Saulord0/Saulord0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
